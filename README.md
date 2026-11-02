@@ -8,9 +8,6 @@
 🔓 开源共享 · 免费使用
 📡 多协议支持 · 兼容多种客户端
 
-🛡 安全使用提醒
-
-请合理使用开源资源，注意个人账号与隐私安全。
 
 🚀 支持客户端
 
@@ -28,10 +25,6 @@ NekoBox · Clash Verge
 - 下方⬇️订阅地址二维码
 
   ![](https://github.com/FreeVPNHub/clashfree/blob/main/clash.png?raw=true)
-
-
-
-
 
 <hr>
 
